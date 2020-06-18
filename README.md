@@ -1,1 +1,1 @@
-# Privacy-Preserving-AI
+# Privacy Preserving AI
